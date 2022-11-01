@@ -1,0 +1,96 @@
+countries,alpha-2,alpha-3,region,sub-region,latitude,longitude
+Albania,AL,ALB,Europe,Southern Europe,41.153332,20.168331
+American Samoa,AS,ASM,Oceania,Polynesia,-14.270972,-170.132217
+Andorra,AD,AND,Europe,Southern Europe,42.546245,1.601554
+Armenia,AM,ARM,Asia,Western Asia,40.069099,45.038189
+Australia,AU,AUS,Oceania,Australia and New Zealand,-25.274398,133.775136
+Austria,AT,AUT,Europe,Western Europe,47.516231,14.550072
+Azerbaijan,AZ,AZE,Asia,Western Asia,40.143105,47.576927
+Belarus,BY,BLR,Europe,Eastern Europe,53.709807,27.953389
+Belgium,BE,BEL,Europe,Western Europe,50.503887,4.469936
+Bosnia and Herzegovina,BA,BIH,Europe,Southern Europe,43.915886,17.679076
+Brunei Darussalam,BN,BRN,Asia,South-eastern Asia,4.535277,114.727669
+Bulgaria,BG,BGR,Europe,Eastern Europe,42.733883,25.48583
+Cambodia,KH,KHM,Asia,South-eastern Asia,12.565679,104.990963
+Channel Islands,CH,CHI,Europe,Northern Europe,49.43,-2.35
+China,CN,CHN,Asia,Eastern Asia,35.86166,104.195397
+Croatia,HR,HRV,Europe,Southern Europe,45.1,15.2
+Cyprus,CY,CYP,Asia,Western Asia,35.126413,33.429859
+Czechia,CZ,CZE,Europe,Eastern Europe,49.817492,15.472962
+Denmark,DK,DNK,Europe,Northern Europe,56.26392,9.501785
+Estonia,EE,EST,Europe,Northern Europe,58.595272,25.013607
+Faroe Islands,FO,FRO,Europe,Northern Europe,61.892635,-6.911806
+Fiji,FJ,FJI,Oceania,Melanesia,-16.578193,179.414413
+Finland,FI,FIN,Europe,Northern Europe,61.92411,25.748151
+France,FR,FRA,Europe,Western Europe,46.227638,2.213749
+French Polynesia,PF,PYF,Oceania,Polynesia,-17.679742,-149.406843
+Georgia,GE,GEO,Asia,Western Asia,42.315407,43.356892
+Germany,DE,DEU,Europe,Western Europe,51.165691,10.451526
+Gibraltar,GI,GIB,Europe,Southern Europe,36.137741,-5.345374
+Greece,GR,GRC,Europe,Southern Europe,39.074208,21.824312
+Greenland,GL,GRL,Americas,Northern America,71.706936,-42.604303
+Guam,GU,GUM,Oceania,Micronesia,13.444304,144.793731
+"Hong Kong SAR, China",HK,HKG,Asia,Eastern Asia,22.396428,114.109497
+Hungary,HU,HUN,Europe,Eastern Europe,47.162494,19.503304
+Iceland,IS,ISL,Europe,Northern Europe,64.963051,-19.020835
+Indonesia,ID,IDN,Asia,South-eastern Asia,-0.789275,113.921327
+Ireland,IE,IRL,Europe,Northern Europe,53.41291,-8.24389
+Isle of Man,IM,IMN,Europe,Northern Europe,54.236107,-4.548056
+Italy,IT,ITA,Europe,Southern Europe,41.87194,12.56738
+Japan,JP,JPN,Asia,Eastern Asia,36.204824,138.252924
+Kazakhstan,KZ,KAZ,Asia,Central Asia,48.019573,66.923684
+Kiribati,KI,KIR,Oceania,Micronesia,-3.370417,-168.734039
+"Korea, Dem. People's Rep.",KP,PRK,Asia,Eastern Asia,40.339852,127.510093
+"Korea, Rep.",KR,KOR,Asia,Eastern Asia,35.907757,127.766922
+Kosovo,XK,XKX,Europe,Southern Europe,42.5833,21.0001
+Kyrgyz Republic,KG,KGZ,Asia,Central Asia,41.20438,74.766098
+Lao PDR,LA,LAO,Asia,South-eastern Asia,19.85627,102.495496
+Latvia,LV,LVA,Europe,Northern Europe,56.879635,24.603189
+Liechtenstein,LI,LIE,Europe,Western Europe,47.166,9.555373
+Lithuania,LT,LTU,Europe,Northern Europe,55.169438,23.881275
+Luxembourg,LU,LUX,Europe,Western Europe,49.815273,6.129583
+"Macao SAR, China",MO,MAC,Asia,Eastern Asia,22.198745,113.543873
+Malaysia,MY,MYS,Asia,South-eastern Asia,4.210484,101.975766
+Marshall Islands,MH,MHL,Oceania,Micronesia,7.131474,171.184478
+"Micronesia, Fed. Sts.",FM,FSM,Oceania,Micronesia,7.425554,150.550812
+Moldova,MD,MDA,Europe,Eastern Europe,47.411631,28.369885
+Monaco,MC,MCO,Europe,Western Europe,43.750298,7.412841
+Mongolia,MN,MNG,Asia,Eastern Asia,46.862496,103.846656
+Montenegro,ME,MNE,Europe,Southern Europe,42.708678,19.37439
+Myanmar,MM,MMR,Asia,South-eastern Asia,21.913965,95.956223
+Nauru,NR,NRU,Oceania,Micronesia,-0.522778,166.931503
+Netherlands,NL,NLD,Europe,Western Europe,52.132633,5.291266
+New Caledonia,NC,NCL,Oceania,Melanesia,-20.904305,165.618042
+New Zealand,NZ,NZL,Oceania,Australia and New Zealand,-40.900557,174.885971
+North Macedonia,MK,MKD,Europe,Southern Europe,41.608635,21.745275
+Northern Mariana Islands,MP,MNP,Oceania,Micronesia,17.33083,145.38469
+Norway,NO,NOR,Europe,Northern Europe,60.472024,8.468946
+Palau,PW,PLW,Oceania,Micronesia,7.51498,134.58252
+Papua New Guinea,PG,PNG,Oceania,Melanesia,-6.314993,143.95555
+Philippines,PH,PHL,Asia,South-eastern Asia,12.879721,121.774017
+Poland,PL,POL,Europe,Eastern Europe,51.919438,19.145136
+Portugal,PT,PRT,Europe,Southern Europe,39.399872,-8.224454
+Romania,RO,ROU,Europe,Eastern Europe,45.943161,24.96676
+Russian Federation,RU,RUS,Europe,Eastern Europe,61.52401,105.318756
+Samoa,WS,WSM,Oceania,Polynesia,-13.759029,-172.104629
+San Marino,SM,SMR,Europe,Southern Europe,43.94236,12.457777
+Serbia,RS,SRB,Europe,Southern Europe,44.016521,21.005859
+Singapore,SG,SGP,Asia,South-eastern Asia,1.352083,103.819836
+Slovak Republic,SK,SVK,Europe,Eastern Europe,48.669026,19.699024
+Slovenia,SI,SVN,Europe,Southern Europe,46.151241,14.995463
+Solomon Islands,SB,SLB,Oceania,Melanesia,-9.64571,160.156194
+Spain,ES,ESP,Europe,Southern Europe,40.463667,-3.74922
+Sweden,SE,SWE,Europe,Northern Europe,60.128161,18.643501
+Switzerland,CH,CHE,Europe,Western Europe,46.818188,8.227512
+Tajikistan,TJ,TJK,Asia,Central Asia,38.861034,71.276093
+Thailand,TH,THA,Asia,South-eastern Asia,15.870032,100.992541
+Timor-Leste,TL,TLS,Asia,South-eastern Asia,-8.874217,125.727539
+Tonga,TO,TON,Oceania,Polynesia,-21.178986,-175.198242
+Turkiye,TR,TUR,Asia,Western Asia,38.963745,35.243322
+Turkmenistan,TM,TKM,Asia,Central Asia,38.969719,59.556278
+Tuvalu,TV,TUV,Oceania,Polynesia,-7.109535,177.64933
+Ukraine,UA,UKR,Europe,Eastern Europe,48.379433,31.16558
+United Kingdom,GB,GBR,Europe,Northern Europe,55.378051,-3.435973
+Uzbekistan,UZ,UZB,Asia,Central Asia,41.377491,64.585262
+Vanuatu,VU,VUT,Oceania,Melanesia,-15.376706,166.959158
+Vietnam,VN,VNM,Asia,South-eastern Asia,14.058324,108.277199
